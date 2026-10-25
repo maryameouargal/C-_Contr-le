@@ -1,4 +1,4 @@
-# EXCICE 1 :Analyse de code C++
+# EXERCICE 1 :Analyse de code C++
 
 Q1 : Déterminez le résultat affiché par ce programme.
 
